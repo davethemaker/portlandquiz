@@ -20,30 +20,30 @@
  * Make sure the first answer is the correct one. Set at least 4 answers, any extras will be shuffled in.
  */
 var questions = [
-    {
-        "Reindeer have very thick coats, how many hairs per square inch do they have?": [
-            "13,000",
-            "1,200",
-            "5,000",
-            "700",
-            "1,000",
-            "120,000"
+   {
+        "When was Portland founded?": [
+            "February 8, 1851",
+            "April 1, 1832",
+            "June 22, 1799",
+            "May 9, 1876",
+            "July 4, 1888",
+            "July 4, 1833"
         ]
     },
     {
-        "The 1964 classic Rudolph The Red Nosed Reindeer was filmed in:": [
-            "Japan",
-            "United States",
-            "Finland",
-            "Germany"
+        "How many bridges are there leading into downtown?:": [
+            "nine",
+            "seven",
+            "five",
+            "ten"
         ]
     },
     {
-        "Santas reindeer are cared for by one of the Christmas elves, what is his name?": [
-            "Wunorse Openslae",
-            "Alabaster Snowball",
-            "Bushy Evergreen",
-            "Pepper Minstix"
+        "What is the name of the bridge connecting the Lloyed District to Old Town?": [
+            "Broadway Bridge",
+            "Fremont Bridge",
+            "Burnside Bridge",
+            "Steel Bridge"
         ]
     },
     {
